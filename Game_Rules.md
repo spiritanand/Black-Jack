@@ -48,4 +48,4 @@ You are given 100 chips to start the game so,..
 
 ### PEACE.
 
-## SPIRIT OUT >>>> >>
+# SPIRIT OUT >>>> >>
