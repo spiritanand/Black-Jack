@@ -3,7 +3,7 @@ It is the game of Blackjack that can be played between a player(user) and the de
 
 This game is a one player game v/s the computer who is the dealer.
 
-## Objective of the game --> To BEAT the dealer (computer). 
+# Objective of the game --> To BEAT the dealer (computer). 
 
 ## This game includes player actions :-
 
