@@ -3,15 +3,15 @@ It is the game of Blackjack that can be played between a player(user) and the de
 
 This game is a one player game v/s the computer who is the dealer.
 
-Objective of the game --> To BEAT the dealer (computer). 
+## Objective of the game --> To BEAT the dealer (computer). 
 
-This game includes player actions :-
+## This game includes player actions :-
 
 a.Hit and
 
 b.Stand
 
-This game does not include other player actions such as :-
+## This game does not include other player actions such as :-
 
 a.Double Down ,
 
@@ -19,7 +19,7 @@ b.Split and
 
 c.Surrender
 
-How do you beat the dealer?
+## How do you beat the dealer?
 
 1.By drawing a hand value that is higher than the dealer’s hand value
 
@@ -27,13 +27,13 @@ How do you beat the dealer?
 
 3.By drawing a hand value of 21 on your first two cards, when the dealer does not.
 
-How do you lose to the dealer? 
+## How do you lose to the dealer? 
 
 1.Your hand value exceeds 21.
 
 2.The dealers hand has a greater value than yours at the end of the round
 
-How Do You Find a Hand’s Total Value?
+## How Do You Find a Hand’s Total Value?
 
 1.Blackjack is played with a conventional deck of 52 playing cards and suits don’t matter.
 
@@ -44,8 +44,8 @@ How Do You Find a Hand’s Total Value?
 4.Ace can count as a 1 or an 11 depending on which value helps the hand the most.
 
 You are given 100 chips to start the game so,..
-Go HARD or Go HOME.
+### Go HARD or Go HOME.
 
-PEACE.
+### PEACE.
 
-SPIRIT OUT >>>> >>
+## SPIRIT OUT >>>> >>
